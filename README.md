@@ -1,4 +1,4 @@
-# Detecting Political Bias in News Articles
+# detecting-political-bias
 
 A classical ML pipeline that predicts the political lean of a news article — left, center, or right — along with a continuous −1 to +1 bias score reflecting the strength of that lean.
 ## Overview
